@@ -12,4 +12,5 @@ namespace SalonSamochodowy
         public int Cena { get; set; }
         public bool CzyStandard { get; set; }
     }
+
 }
